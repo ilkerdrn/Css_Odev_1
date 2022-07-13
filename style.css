@@ -1,0 +1,27 @@
+h2{
+    color: blue;
+}
+h1{
+    color: blueviolet;
+}
+p{
+    font-size: large;
+}
+
+h3{
+
+   color:rgb(255,162,0);
+
+}
+  
+body {
+  
+    justify-content: center;
+    text-align: center;
+    list-style-position: inside;
+  }
+  
+
+  img {
+    width: 300px;
+  }
